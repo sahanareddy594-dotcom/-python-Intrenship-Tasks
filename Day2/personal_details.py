@@ -1,0 +1,7 @@
+print("Name: Sahana GR")
+print("Course: MCA")
+Print("College Name: UBDT College Of Engineering Davanagere")
+Print("Email-id: sahanareddy594@gmail.com")
+print("Phone Number: 7975879257")
+Print("City: Harihar")
+Print("Internship: Axilex services Consultancy Private limited huballi")
